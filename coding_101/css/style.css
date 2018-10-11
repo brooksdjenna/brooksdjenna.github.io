@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
+body {
+  background-color: white;
+  font-family: "Inconsolata", sans-sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #333333;
+}
+
+h3 {
+font-size: 35px;
+}
+
+h4 {
+text-decoration: underline;
+text-transform: uppercase;
+}
+
+ul {
+  text-align: center;
+  text-transform: lowercase;
+  letter-spacing: 1px;
+  border: 5px solid black;
+  background-color: #cccccc;
+  padding: 10px 10px 10px 10px;
+}
+
+
+.one: hover {
+  font-style: italic;
+  color: #999999
+  background color: e6e6e6;
+}
+
+.two {
+  font-style: italic;
+  color: #404040
+}
+
+.three {
+  font-style: italic;
+  color: #333333
+}
+
+.four {
+  font-style: italic;
+  color: #262626
+}
